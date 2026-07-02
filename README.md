@@ -7,6 +7,7 @@ This repository contains the official legal documents for PranaFit.
 
 - Privacy Policy
 - Terms of Service
+- Request Account Deletion
 
 For support, contact:
 
